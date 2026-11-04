@@ -44,6 +44,7 @@ h2 { font-size: 18px; font-weight: 600; margin: 28px 0 10px; }
 .an-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr)); gap: 12px; margin-top: 12px; }
 .an-item b { display: block; margin-bottom: 4px; }
 .an-item p { margin: 0; font-size: 14px; line-height: 1.4; }
+.nodata { font-style: italic; }
 .note { font-size: 13px; color: var(--muted); margin-top: 32px; }
 </style>
 </head>
@@ -165,6 +166,7 @@ h2 { font-size: 18px; font-weight: 600; margin: 28px 0 10px; }
           bar.append(a, gap, b);
         }
         c.appendChild(bar);
+        if (r.dem_pct == null && r.rep_pct == null) c.appendChild(el('div', 'meta nodata', 'Vote totals not available yet — see the CNN link below.'));
         const st = el('div', 'status', r.status);
         if (r.pct_in != null) st.append(' · ' + r.pct_in + '% in');
         if (r.call) { st.append(' · Projected: '); st.appendChild(el('span', 'call', r.call === 'D' ? r.dem : r.rep)); }
