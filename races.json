@@ -11,11 +11,11 @@
   "poll_margin": 7,
   "polls_close": "8 PM ET (El Paso 9 PM)",
   "status": "Counting — no call yet (AP results via Fox News)",
-  "dem_pct": 59.0,
-  "rep_pct": 39.5,
-  "pct_in": 25.7,
+  "dem_pct": 59.2,
+  "rep_pct": 39.3,
+  "pct_in": 40.1,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "TX-GOV",
@@ -29,11 +29,11 @@
   "poll_margin": 1,
   "polls_close": "8 PM ET (El Paso 9 PM)",
   "status": "Counting — no call yet (AP results via Fox News)",
-  "dem_pct": 57.2,
-  "rep_pct": 41.5,
-  "pct_in": 24.8,
+  "dem_pct": 56.9,
+  "rep_pct": 41.9,
+  "pct_in": 40.6,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "MI-SEN",
@@ -47,11 +47,11 @@
   "poll_margin": 11,
   "polls_close": "8 PM ET",
   "status": "Counting — no call yet (AP results via Fox News)",
-  "dem_pct": 57.1,
-  "rep_pct": 41.3,
-  "pct_in": 9.1,
+  "dem_pct": 55.0,
+  "rep_pct": 43.4,
+  "pct_in": 13.7,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "NY-21",
@@ -64,12 +64,12 @@
   "final_poll": "Gendebien 46–42 (Siena, Oct)",
   "poll_margin": 4,
   "polls_close": "9 PM ET",
-  "status": "Polls open",
+  "status": "Polls closed — no results reported yet",
   "dem_pct": null,
   "rep_pct": null,
   "pct_in": null,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "CT-GOV",
@@ -83,23 +83,23 @@
   "poll_margin": 13,
   "polls_close": "",
   "status": "Counting — no call yet (AP results via Fox News)",
-  "dem_pct": 73.4,
-  "rep_pct": 26.6,
-  "pct_in": 2.5,
+  "dem_pct": 68.7,
+  "rep_pct": 31.3,
+  "pct_in": 4.6,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "rating": "—",
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "9 PM ET",
-  "status": "Polls open",
+  "status": "Polls closed — no results posted yet (Schoharie County BOE page shows no election-night update)",
   "dem_pct": null,
   "rep_pct": null,
   "pct_in": null,
   "call": "",
-  "updated": "8:41 PM ET",
+  "updated": "9:14 PM ET",
   "id": "NY-AD102",
   "group": "Local races",
   "race": "NY Assembly District 102 (open)",
@@ -112,12 +112,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "9 PM ET",
-  "status": "Polls open",
+  "status": "Polls closed — no results posted yet (Schoharie County BOE page shows no election-night update)",
   "dem_pct": null,
   "rep_pct": null,
   "pct_in": null,
   "call": "",
-  "updated": "8:41 PM ET",
+  "updated": "9:14 PM ET",
   "id": "CONESVILLE-SUP",
   "group": "Local races",
   "race": "Conesville Town Supervisor",
@@ -136,12 +136,12 @@
   "final_poll": "Jackson 51–45 (NYT/Siena)",
   "poll_margin": 6,
   "polls_close": "",
-  "status": "Counting — under 1% of expected vote in, no call yet (Fox News results)",
-  "dem_pct": 35.6,
-  "rep_pct": 64.4,
-  "pct_in": null,
+  "status": "Counting — no call yet (AP results via Fox News)",
+  "dem_pct": 55.2,
+  "rep_pct": 44.7,
+  "pct_in": 4.9,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "OH-SEN",
@@ -155,11 +155,11 @@
   "poll_margin": 5,
   "polls_close": "",
   "status": "Counting — no call yet (AP results via Fox News)",
-  "dem_pct": 57.1,
-  "rep_pct": 39.4,
-  "pct_in": 35.3,
+  "dem_pct": 51.7,
+  "rep_pct": 44.1,
+  "pct_in": 48.0,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "IA-SEN",
@@ -172,12 +172,12 @@
   "final_poll": "Turek 48–47 (NYT/Siena)",
   "poll_margin": 1,
   "polls_close": "",
-  "status": "Polls open",
-  "dem_pct": null,
-  "rep_pct": null,
-  "pct_in": null,
+  "status": "Counting — no call yet (AP results via Fox News)",
+  "dem_pct": 71.5,
+  "rep_pct": 27.0,
+  "pct_in": 5.1,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "AK-SEN",
@@ -195,7 +195,7 @@
   "rep_pct": null,
   "pct_in": null,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "KS-SEN",
@@ -208,12 +208,12 @@
   "final_poll": "Hamilton 49–44 (NYT/Siena)",
   "poll_margin": 5,
   "polls_close": "9 PM ET",
-  "status": "Polls open",
-  "dem_pct": null,
-  "rep_pct": null,
-  "pct_in": null,
+  "status": "Counting — no call yet (AP results via Fox News)",
+  "dem_pct": 61.8,
+  "rep_pct": 35.6,
+  "pct_in": 37.8,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "NC-SEN",
@@ -227,11 +227,11 @@
   "poll_margin": 9,
   "polls_close": "",
   "status": "Projected by AP (8:23 PM ET) and Fox News (8:27 PM ET)",
-  "dem_pct": 64.5,
-  "rep_pct": 33.8,
-  "pct_in": 62.7,
+  "dem_pct": 61.0,
+  "rep_pct": 37.1,
+  "pct_in": 75.3,
   "call": "D",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "GA-SEN",
@@ -245,11 +245,11 @@
   "poll_margin": 7,
   "polls_close": "Closed",
   "status": "Projected by AP, NBC News and Fox News",
-  "dem_pct": 61.8,
-  "rep_pct": 38.2,
-  "pct_in": 62.5,
+  "dem_pct": 60.2,
+  "rep_pct": 39.8,
+  "pct_in": 71.2,
   "call": "D",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "NH-SEN",
@@ -263,11 +263,11 @@
   "poll_margin": 8,
   "polls_close": "",
   "status": "Projected by Fox News (8:11 PM ET) and NBC News",
-  "dem_pct": 60.1,
-  "rep_pct": 38.1,
-  "pct_in": 23.3,
+  "dem_pct": 58.6,
+  "rep_pct": 39.6,
+  "pct_in": 33.7,
   "call": "D",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "MN-SEN",
@@ -280,12 +280,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Polls open",
+  "status": "Polls closed — no votes reported yet (Fox News)",
   "dem_pct": null,
   "rep_pct": null,
-  "pct_in": null,
+  "pct_in": 0.0,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "GA-GOV",
@@ -298,12 +298,12 @@
   "final_poll": "Tied 49–49 (InsiderAdvantage)",
   "poll_margin": 0,
   "polls_close": "Closed",
-  "status": "Counting — no call yet (AP results via Fox News)",
-  "dem_pct": 57.6,
-  "rep_pct": 42.4,
-  "pct_in": 62.5,
-  "call": "",
-  "updated": "8:41 PM ET"
+  "status": "Projected by NBC News",
+  "dem_pct": 55.9,
+  "rep_pct": 44.1,
+  "pct_in": 71.2,
+  "call": "D",
+  "updated": "9:14 PM ET"
  },
  {
   "id": "KS-GOV",
@@ -316,12 +316,12 @@
   "final_poll": "Holscher 48–47 (NYT/Siena)",
   "poll_margin": 1,
   "polls_close": "9 PM ET",
-  "status": "Polls open",
-  "dem_pct": null,
-  "rep_pct": null,
-  "pct_in": null,
+  "status": "Counting — no call yet (AP results via Fox News)",
+  "dem_pct": 61.4,
+  "rep_pct": 38.7,
+  "pct_in": 37.4,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "NV-GOV",
@@ -339,7 +339,7 @@
   "rep_pct": null,
   "pct_in": null,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "MI-GOV",
@@ -353,11 +353,11 @@
   "poll_margin": 13,
   "polls_close": "8 PM ET",
   "status": "Counting — no call yet (AP results via Fox News)",
-  "dem_pct": 59.8,
-  "rep_pct": 38.9,
-  "pct_in": 9.2,
+  "dem_pct": 57.4,
+  "rep_pct": 41.2,
+  "pct_in": 13.6,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "OH-GOV",
@@ -371,11 +371,11 @@
   "poll_margin": 6,
   "polls_close": "",
   "status": "Counting — no call yet (AP results via Fox News)",
-  "dem_pct": 58.9,
-  "rep_pct": 38.7,
-  "pct_in": 35.3,
+  "dem_pct": 53.6,
+  "rep_pct": 43.4,
+  "pct_in": 47.9,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "IA-GOV",
@@ -388,12 +388,12 @@
   "final_poll": "Sand 51–43 (NYT/Siena)",
   "poll_margin": 8,
   "polls_close": "",
-  "status": "Polls open",
-  "dem_pct": null,
-  "rep_pct": null,
-  "pct_in": null,
+  "status": "Counting — no call yet (AP results via Fox News)",
+  "dem_pct": 75.3,
+  "rep_pct": 24.7,
+  "pct_in": 5.1,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "AK-GOV",
@@ -411,7 +411,7 @@
   "rep_pct": null,
   "pct_in": null,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "CA-22",
@@ -429,7 +429,7 @@
   "rep_pct": null,
   "pct_in": null,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "CO-05",
@@ -442,12 +442,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Polls open",
+  "status": "Polls closed — no returns retrieved yet",
   "dem_pct": null,
   "rep_pct": null,
   "pct_in": null,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "FL-14",
@@ -465,7 +465,7 @@
   "rep_pct": null,
   "pct_in": null,
   "call": "D",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "FL-22",
@@ -478,12 +478,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Polls closed — no call yet",
+  "status": "Projected by NBC News and AP (9:11 PM ET, via Fox News)",
   "dem_pct": null,
   "rep_pct": null,
   "pct_in": null,
-  "call": "",
-  "updated": "8:41 PM ET"
+  "call": "D",
+  "updated": "9:14 PM ET"
  },
  {
   "id": "IA-02",
@@ -496,12 +496,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Polls open",
+  "status": "Polls closed — no returns retrieved yet",
   "dem_pct": null,
   "rep_pct": null,
   "pct_in": null,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "KY-06",
@@ -519,7 +519,7 @@
   "rep_pct": null,
   "pct_in": null,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "MI-04",
@@ -532,12 +532,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Most polls closed (western U.P. closes 9 PM ET) — no call yet",
+  "status": "Counting — under 1% in, no call yet; Huizenga leads (Fox News hot-races table; trailing share not shown)",
   "dem_pct": null,
-  "rep_pct": null,
+  "rep_pct": 71.4,
   "pct_in": null,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "MI-07",
@@ -550,12 +550,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Most polls closed (western U.P. closes 9 PM ET) — no call yet",
+  "status": "Counting — no call yet; Barrett leads (Fox News hot-races table; trailing share not shown)",
   "dem_pct": null,
-  "rep_pct": null,
-  "pct_in": null,
+  "rep_pct": 59.4,
+  "pct_in": 26.9,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "MI-10",
@@ -568,12 +568,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Most polls closed (western U.P. closes 9 PM ET) — no call yet",
+  "status": "Polls closed — no call yet",
   "dem_pct": null,
   "rep_pct": null,
   "pct_in": null,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "MT-01",
@@ -591,7 +591,7 @@
   "rep_pct": null,
   "pct_in": null,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "NY-17",
@@ -604,12 +604,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Polls open",
-  "dem_pct": null,
+  "status": "Counting — no call yet; Conley leads (Fox News hot-races table; trailing share not shown)",
+  "dem_pct": 57.4,
   "rep_pct": null,
-  "pct_in": null,
+  "pct_in": 1.9,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "NC-01",
@@ -622,12 +622,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Polls closed — no call yet",
-  "dem_pct": null,
-  "rep_pct": null,
-  "pct_in": null,
+  "status": "Counting — no call yet (AP results via Fox News)",
+  "dem_pct": 50.2,
+  "rep_pct": 46.9,
+  "pct_in": 61.9,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "OH-07",
@@ -640,12 +640,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Counting — no call yet (Fox News results)",
-  "dem_pct": 69.4,
-  "rep_pct": 30.6,
-  "pct_in": 20.3,
+  "status": "Counting — no call yet; Poindexter leads (Fox News hot-races table; trailing share not shown)",
+  "dem_pct": 59.2,
+  "rep_pct": null,
+  "pct_in": 42.6,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "PA-01",
@@ -658,12 +658,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Polls closed — no call yet",
-  "dem_pct": null,
-  "rep_pct": null,
-  "pct_in": null,
+  "status": "Counting — no call yet (AP results via Fox News)",
+  "dem_pct": 65.9,
+  "rep_pct": 34.2,
+  "pct_in": 28.4,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "SC-01",
@@ -676,12 +676,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Counting — no call yet (Fox News results)",
-  "dem_pct": 55.2,
-  "rep_pct": 43.6,
-  "pct_in": 34.2,
+  "status": "Counting — no call yet (AP results via Fox News; % in not shown)",
+  "dem_pct": 52.8,
+  "rep_pct": 45.6,
+  "pct_in": null,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "TX-15",
@@ -694,12 +694,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Most polls closed (El Paso area closes 9 PM ET) — no call yet",
+  "status": "Polls closed — no votes reported yet (Fox News)",
   "dem_pct": null,
   "rep_pct": null,
-  "pct_in": null,
+  "pct_in": 0.0,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "TX-35",
@@ -712,12 +712,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Most polls closed (El Paso area closes 9 PM ET) — no call yet",
+  "status": "Polls closed — no call yet",
   "dem_pct": null,
   "rep_pct": null,
   "pct_in": null,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "VA-01",
@@ -731,11 +731,11 @@
   "poll_margin": null,
   "polls_close": "",
   "status": "Counting — no call yet (AP results via Fox News)",
-  "dem_pct": 49.0,
-  "rep_pct": 50.7,
-  "pct_in": 66.9,
+  "dem_pct": 49.5,
+  "rep_pct": 50.2,
+  "pct_in": 80.3,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "AZ-01",
@@ -748,12 +748,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Polls open",
+  "status": "Polls closed — no votes reported yet (Fox News)",
   "dem_pct": null,
   "rep_pct": null,
-  "pct_in": null,
+  "pct_in": 0.0,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "AZ-06",
@@ -766,12 +766,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Polls open",
+  "status": "Polls closed — no votes reported yet (Fox News)",
   "dem_pct": null,
   "rep_pct": null,
-  "pct_in": null,
+  "pct_in": 0.0,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "CA-48",
@@ -789,7 +789,7 @@
   "rep_pct": null,
   "pct_in": null,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "CO-08",
@@ -802,12 +802,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Polls open",
+  "status": "Polls closed — no votes reported yet (Fox News)",
   "dem_pct": null,
   "rep_pct": null,
-  "pct_in": null,
+  "pct_in": 0.0,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "FL-25",
@@ -821,11 +821,11 @@
   "poll_margin": null,
   "polls_close": "",
   "status": "Projected by AP (8:07 PM ET, via Fox News)",
-  "dem_pct": 51.6,
-  "rep_pct": 46.4,
-  "pct_in": 94.0,
+  "dem_pct": 51.3,
+  "rep_pct": null,
+  "pct_in": 96.7,
   "call": "D",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "IA-01",
@@ -838,12 +838,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Polls open",
+  "status": "Polls closed — no votes reported yet (Fox News)",
   "dem_pct": null,
   "rep_pct": null,
-  "pct_in": null,
+  "pct_in": 0.0,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "IA-03",
@@ -856,12 +856,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Polls open",
+  "status": "Polls closed — no returns retrieved yet",
   "dem_pct": null,
   "rep_pct": null,
   "pct_in": null,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "NJ-07",
@@ -874,12 +874,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Polls closed — no call yet",
-  "dem_pct": null,
+  "status": "Counting — no call yet; Bennett leads (Fox News hot-races table; trailing share not shown)",
+  "dem_pct": 64.6,
   "rep_pct": null,
-  "pct_in": null,
+  "pct_in": 31.2,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "NM-02",
@@ -892,12 +892,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Polls open",
+  "status": "Polls closed — no returns retrieved yet",
   "dem_pct": null,
   "rep_pct": null,
   "pct_in": null,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "NC-11",
@@ -910,12 +910,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Polls closed — no call yet",
+  "status": "Projected by AP (8:53 PM ET, via Fox News)",
   "dem_pct": null,
   "rep_pct": null,
   "pct_in": null,
-  "call": "",
-  "updated": "8:41 PM ET"
+  "call": "D",
+  "updated": "9:14 PM ET"
  },
  {
   "id": "OH-09",
@@ -928,12 +928,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Counting — no call yet (Fox News results)",
-  "dem_pct": 47.9,
-  "rep_pct": 52.1,
-  "pct_in": 10.4,
+  "status": "Counting — no call yet; Merrin leads (Fox News hot-races table; trailing share not shown)",
+  "dem_pct": null,
+  "rep_pct": 58.3,
+  "pct_in": 33.5,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "PA-07",
@@ -946,12 +946,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Polls closed — no call yet",
-  "dem_pct": null,
+  "status": "Counting — no call yet; Brooks leads (Fox News hot-races table; trailing share not shown)",
+  "dem_pct": 69.6,
   "rep_pct": null,
-  "pct_in": null,
+  "pct_in": 30.2,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "PA-08",
@@ -969,7 +969,7 @@
   "rep_pct": null,
   "pct_in": null,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "PA-10",
@@ -987,7 +987,7 @@
   "rep_pct": null,
   "pct_in": null,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "TX-34",
@@ -1000,12 +1000,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Most polls closed (El Paso area closes 9 PM ET) — no call yet",
-  "dem_pct": null,
+  "status": "Counting — no call yet; Gonzalez leads (Fox News hot-races table; trailing share not shown)",
+  "dem_pct": 56.8,
   "rep_pct": null,
-  "pct_in": null,
+  "pct_in": 73.8,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "VA-02",
@@ -1018,12 +1018,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Counting — no call yet (Fox News results)",
-  "dem_pct": 45.5,
-  "rep_pct": 51.9,
-  "pct_in": 6.9,
+  "status": "Counting — no call yet; Luria leads (Fox News hot-races table; trailing share not shown)",
+  "dem_pct": 52.9,
+  "rep_pct": null,
+  "pct_in": 61.5,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "WA-03",
@@ -1041,7 +1041,7 @@
   "rep_pct": null,
   "pct_in": null,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "WI-03",
@@ -1054,12 +1054,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Polls open",
+  "status": "Polls closed — no votes reported yet (Fox News)",
   "dem_pct": null,
   "rep_pct": null,
-  "pct_in": null,
+  "pct_in": 0.0,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "AK-AL",
@@ -1077,7 +1077,7 @@
   "rep_pct": null,
   "pct_in": null,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "AL-02",
@@ -1095,7 +1095,7 @@
   "rep_pct": null,
   "pct_in": null,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "AZ-02",
@@ -1108,12 +1108,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Polls open",
+  "status": "Polls closed — no returns retrieved yet",
   "dem_pct": null,
   "rep_pct": null,
   "pct_in": null,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "CO-04",
@@ -1126,12 +1126,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Polls open",
+  "status": "Polls closed — no returns retrieved yet",
   "dem_pct": null,
   "rep_pct": null,
   "pct_in": null,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "FL-13",
@@ -1144,12 +1144,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Counting — no call yet (Fox News results)",
-  "dem_pct": 48.8,
-  "rep_pct": 49.4,
-  "pct_in": 98.3,
+  "status": "Counting — no call yet; Luna leads (Fox News hot-races table; trailing share not shown)",
+  "dem_pct": null,
+  "rep_pct": 49.6,
+  "pct_in": 99.0,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "FL-27",
@@ -1162,12 +1162,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Counting — no call yet (Fox News results; Dem share not shown)",
+  "status": "Counting — no call yet; Salazar leads (Fox News hot-races table; trailing share not shown)",
   "dem_pct": null,
-  "rep_pct": 50.0,
-  "pct_in": 90.8,
+  "rep_pct": 50.2,
+  "pct_in": 94.6,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "ME-02",
@@ -1185,7 +1185,7 @@
   "rep_pct": null,
   "pct_in": null,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "MN-01",
@@ -1198,12 +1198,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Polls open",
+  "status": "Polls closed — no returns retrieved yet",
   "dem_pct": null,
   "rep_pct": null,
   "pct_in": null,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "NV-02",
@@ -1221,7 +1221,7 @@
   "rep_pct": null,
   "pct_in": null,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "OH-10",
@@ -1239,7 +1239,7 @@
   "rep_pct": null,
   "pct_in": null,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "OH-15",
@@ -1257,7 +1257,7 @@
   "rep_pct": null,
   "pct_in": null,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "TX-23",
@@ -1270,12 +1270,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Most polls closed (El Paso area closes 9 PM ET) — no call yet",
+  "status": "Polls closed — no call yet",
   "dem_pct": null,
   "rep_pct": null,
   "pct_in": null,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  },
  {
   "id": "WI-01",
@@ -1288,11 +1288,11 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Polls open",
+  "status": "Polls closed — no returns retrieved yet",
   "dem_pct": null,
   "rep_pct": null,
   "pct_in": null,
   "call": "",
-  "updated": "8:41 PM ET"
+  "updated": "9:14 PM ET"
  }
 ]
