@@ -141,7 +141,7 @@ h2 { font-size: 18px; font-weight: 600; margin: 28px 0 10px; }
       races.filter(r => r.group === g).forEach(r => {
         const c = el('div', 'card');
         const top = el('div', 'top');
-        top.appendChild(el('div', 'rname', r.race));
+        top.appendChild(el('div', 'rname', r.race + (r.call === 'D' ? ' 🤘' : r.call === 'R' ? ' 😞' : '')));
         const isFlip = r.call && (r.held_by === 'D' || r.held_by === 'R') && r.call !== r.held_by;
         top.appendChild(el('div', 'flip', isFlip ? (r.held_by === 'R' ? 'FLIP R→D' : 'FLIP D→R') : ''));
         c.appendChild(top);
