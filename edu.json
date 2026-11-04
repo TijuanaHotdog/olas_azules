@@ -1,0 +1,9 @@
+{
+"TX-SEN": {"dem": "UT Austin (BA); Harvard (MEd); Austin Presbyterian Theological Seminary (MA)", "rep": "Baylor (BA, MBA); UVA Law (JD)"},
+"TX-GOV": {"dem": "UT Austin (BA); George Washington Univ. Law (JD)", "rep": "UT Austin (BBA); Vanderbilt Law (JD)"},
+"MI-SEN": {"dem": "Univ. of Michigan (BS); Oxford (DPhil); Columbia (MD)", "rep": "Adrian College (BA)"},
+"NY-21": {"dem": "Penn State", "rep": "California Lutheran Univ. (BS)"},
+"CT-GOV": {"dem": "Harvard (BA); Yale School of Management (MBA)", "rep": "Northwestern (economics)"},
+"NY-AD102": {"dem": "Not found", "rep": "Dutchess Community College (AS)"},
+"CONESVILLE-SUP": {"dem": "Not found", "rep": "Not found"}
+}
