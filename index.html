@@ -39,6 +39,11 @@ h2 { font-size: 18px; font-weight: 600; margin: 28px 0 10px; }
 .next { margin: -12px 0 20px; }
 .cand { display: flex; flex-direction: column; }
 .edu { font-size: 12px; color: var(--muted); }
+.analysis { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 16px; margin-bottom: 20px; }
+.an-h { margin: 0 0 4px; }
+.an-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr)); gap: 12px; margin-top: 12px; }
+.an-item b { display: block; margin-bottom: 4px; }
+.an-item p { margin: 0; font-size: 14px; line-height: 1.4; }
 .note { font-size: 13px; color: var(--muted); margin-top: 32px; }
 </style>
 </head>
@@ -47,6 +52,7 @@ h2 { font-size: 18px; font-weight: 600; margin: 28px 0 10px; }
   <h1>Election night 2026</h1>
   <p class="lede" id="lede">Loading…</p>
   <p class="meta next" id="next-upd"></p>
+  <section id="analysis" class="analysis" hidden><h2 class="an-h">Biggest surprises so far</h2><p class="meta" id="an-note"></p><div class="an-grid" id="an-items"></div></section>
   <div class="tiles">
     <div class="tile"><div class="lbl">Races tracked</div><div class="num" id="t-tracked">—</div></div>
     <div class="tile"><div class="lbl">Races called</div><div class="num" id="t-called">—</div></div>
@@ -192,6 +198,17 @@ h2 { font-size: 18px; font-weight: 600; margin: 28px 0 10px; }
   }
   nextUpdate();
   setInterval(nextUpdate, 30000);
+  function loadAnalysis() {
+    fetch('analysis.json?t=' + Date.now(), { cache: 'no-store' }).then(r => r.ok ? r.json() : null).then(a => {
+      if (!a || !a.items || !a.items.length) return;
+      $('an-note').textContent = 'As of ' + a.as_of + '. ' + (a.note || '');
+      const box = $('an-items'); box.textContent = '';
+      a.items.forEach(it => { const d = el('div', 'an-item'); d.appendChild(el('b', '', it.title)); d.appendChild(el('p', '', it.text)); box.appendChild(d); });
+      $('analysis').hidden = false;
+    }).catch(() => {});
+  }
+  loadAnalysis();
+  setInterval(loadAnalysis, 120000);
   load();
   setInterval(load, 120000);
 })();
