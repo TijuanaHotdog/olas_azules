@@ -192,7 +192,8 @@ h2 { font-size: 18px; font-weight: 600; margin: 28px 0 10px; }
     let h = Number(parts.hour), m = Number(parts.minute);
     let nh = m < 5 ? h : (h + 1) % 24;
     const inWindow = hr => hr >= 20 || hr <= 2;
-    if (!inWindow(nh)) { $('next-upd').textContent = 'Scheduled updates have ended for the night.'; return; }
+    const LAST_RUN = Date.parse('2026-11-04T07:05:00Z'); // 2:05 AM ET, Nov 4: final scheduled update
+    if (Date.now() > LAST_RUN || !inWindow(nh)) { $('next-upd').textContent = 'Scheduled updates have ended. Results are now updated on request.'; return; }
     const label = (nh % 12 || 12) + ':05 ' + (nh < 12 ? 'AM' : 'PM') + ' ET';
     $('next-upd').textContent = 'Next scheduled update: ' + label + ' (extra refreshes may land sooner)';
   }

@@ -15,7 +15,7 @@
   "rep_pct": 39.2,
   "pct_in": 67.0,
   "call": "D",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "TX-GOV",
@@ -33,7 +33,7 @@
   "rep_pct": 41.3,
   "pct_in": 66.1,
   "call": "D",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "MI-SEN",
@@ -46,12 +46,12 @@
   "final_poll": "El-Sayed 53–42 (NYT/Siena)",
   "poll_margin": 11,
   "polls_close": "8 PM ET",
-  "status": "Counting — no call yet (AP results via Fox News, 11:11 PM ET)",
-  "dem_pct": 51.1,
-  "rep_pct": 47.0,
-  "pct_in": 31.0,
-  "call": "",
-  "updated": "11:20 PM ET"
+  "status": "Projected by Fox News (per FOX 2 Detroit, 1:53 AM ET) and Decision Desk HQ (per Bloomberg); AP had not called as of 1:50 AM ET; vote figures from prior update",
+  "dem_pct": 49.5,
+  "rep_pct": 48.5,
+  "pct_in": 44.0,
+  "call": "D",
+  "updated": "2:13 AM ET"
  },
  {
   "id": "NY-21",
@@ -64,12 +64,12 @@
   "final_poll": "Gendebien 46–42 (Siena, Oct)",
   "poll_margin": 4,
   "polls_close": "9 PM ET",
-  "status": "Counting — no call yet; ~70% counted, Constantino leads by ~6,000 votes (WWNY 7 News); vote shares not reported",
-  "dem_pct": null,
-  "rep_pct": null,
-  "pct_in": 70.0,
+  "status": "Counting — no desk call retrieved; Constantino 49%, Gendebien 47% unofficial around midnight (WAMC); Constantino declared victory, Gendebien not conceding",
+  "dem_pct": 47.0,
+  "rep_pct": 49.0,
+  "pct_in": 99.5,
   "call": "",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "CT-GOV",
@@ -87,19 +87,19 @@
   "rep_pct": 41.8,
   "pct_in": 37.4,
   "call": "D",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "rating": "—",
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "9 PM ET",
-  "status": "Counting — Schoharie County BOE unofficial (10:42 PM ET): Schoharie portion only, 22 of 22 Schoharie election districts reporting (Tweed 4,763 incl. WFP line, Molinaro 7,518); other counties not yet retrieved, so district-wide % reporting unknown",
+  "status": "Counting — Schoharie County BOE unofficial (10:42 PM ET): Schoharie portion only, 22 of 22 Schoharie election districts reporting (Tweed 4,763 incl. WFP line, Molinaro 7,518); other counties not yet retrieved, so district-wide % reporting unknown; Molinaro declared victory (NEWS10); no newer figures retrieved as of 2:13 AM ET",
   "dem_pct": 38.8,
   "rep_pct": 61.2,
   "pct_in": null,
   "call": "",
-  "updated": "11:20 PM ET",
+  "updated": "2:13 AM ET",
   "id": "NY-AD102",
   "group": "Local races",
   "race": "NY Assembly District 102 (open)",
@@ -117,7 +117,7 @@
   "rep_pct": 42.4,
   "pct_in": 100.0,
   "call": "D",
-  "updated": "11:20 PM ET",
+  "updated": "2:13 AM ET",
   "id": "CONESVILLE-SUP",
   "group": "Local races",
   "race": "Conesville Town Supervisor",
@@ -136,12 +136,12 @@
   "final_poll": "Jackson 51–45 (NYT/Siena)",
   "poll_margin": 6,
   "polls_close": "",
-  "status": "Counting — no call yet (AP results via Fox News, 11:04 PM ET)",
-  "dem_pct": 50.1,
-  "rep_pct": 49.9,
-  "pct_in": 36.4,
-  "call": "",
-  "updated": "11:20 PM ET"
+  "status": "Projected by AP (per NPR/WFSU, 1:02 AM ET); Collins conceded; figures AP via Washington Examiner",
+  "dem_pct": 53.0,
+  "rep_pct": 46.9,
+  "pct_in": 72.3,
+  "call": "D",
+  "updated": "2:13 AM ET"
  },
  {
   "id": "OH-SEN",
@@ -154,12 +154,12 @@
   "final_poll": "Brown 49–44 (NYT/Siena)",
   "poll_margin": 5,
   "polls_close": "",
-  "status": "Projected by NBC News (NBC results page: \"Sherrod Brown Wins\"; call time not retrieved); figures AP via Fox News, 11:11 PM ET",
+  "status": "Projected by NBC News and Fox News (11:14 PM ET); figures AP via Fox News, 12:09 AM ET",
   "dem_pct": 48.7,
-  "rep_pct": 46.5,
-  "pct_in": 87.0,
+  "rep_pct": 46.4,
+  "pct_in": 88.6,
   "call": "D",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "IA-SEN",
@@ -172,12 +172,12 @@
   "final_poll": "Turek 48–47 (NYT/Siena)",
   "poll_margin": 1,
   "polls_close": "",
-  "status": "Counting — no call yet (AP results via Fox News, 11:12 PM ET)",
-  "dem_pct": 52.0,
-  "rep_pct": 45.0,
-  "pct_in": 79.4,
-  "call": "",
-  "updated": "11:20 PM ET"
+  "status": "Projected by Fox News (11:38 PM ET) and AP (11:39 PM ET, per Boston Globe/Iowa Capital Dispatch); NBC results page: \"Josh Turek Wins\"; figures AP via Fox News, 12:09 AM ET",
+  "dem_pct": 50.6,
+  "rep_pct": 46.3,
+  "pct_in": 95.5,
+  "call": "D",
+  "updated": "2:13 AM ET"
  },
  {
   "id": "AK-SEN",
@@ -190,12 +190,12 @@
   "final_poll": "Peltola 48–46 (NYT/Siena)",
   "poll_margin": 2,
   "polls_close": "",
-  "status": "Polls open (close 1 AM ET)",
-  "dem_pct": null,
-  "rep_pct": null,
-  "pct_in": null,
+  "status": "Counting — no call yet; early returns ~11% of precincts (KTOO/Alaska Public Media)",
+  "dem_pct": 54.1,
+  "rep_pct": 42.8,
+  "pct_in": 11.0,
   "call": "",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "KS-SEN",
@@ -208,12 +208,12 @@
   "final_poll": "Hamilton 49–44 (NYT/Siena)",
   "poll_margin": 5,
   "polls_close": "9 PM ET",
-  "status": "Projected by Decision Desk HQ (reported by Bloomberg); figures AP via Fox News, 11:11 PM ET",
-  "dem_pct": 52.3,
-  "rep_pct": 44.8,
-  "pct_in": 86.8,
+  "status": "Projected by Fox News (11:22 PM ET), AP (11:33 PM ET, per Boston Globe) and Decision Desk HQ; figures AP via Fox News, 12:09 AM ET",
+  "dem_pct": 51.4,
+  "rep_pct": 45.7,
+  "pct_in": 93.1,
   "call": "D",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "NC-SEN",
@@ -231,7 +231,7 @@
   "rep_pct": 39.1,
   "pct_in": 91.6,
   "call": "D",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "GA-SEN",
@@ -249,7 +249,7 @@
   "rep_pct": 41.1,
   "pct_in": 91.5,
   "call": "D",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "NH-SEN",
@@ -267,7 +267,7 @@
   "rep_pct": 41.3,
   "pct_in": 71.8,
   "call": "D",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "MN-SEN",
@@ -280,12 +280,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Counting — no call yet (AP results via Fox News, 11:12 PM ET)",
-  "dem_pct": 45.5,
-  "rep_pct": 51.7,
-  "pct_in": 28.3,
-  "call": "",
-  "updated": "11:20 PM ET"
+  "status": "Projected by AP (just after midnight ET, per Washington Examiner)",
+  "dem_pct": 54.0,
+  "rep_pct": 43.3,
+  "pct_in": 75.0,
+  "call": "D",
+  "updated": "2:13 AM ET"
  },
  {
   "id": "GA-GOV",
@@ -303,7 +303,7 @@
   "rep_pct": 45.8,
   "pct_in": 91.4,
   "call": "D",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "KS-GOV",
@@ -316,12 +316,12 @@
   "final_poll": "Holscher 48–47 (NYT/Siena)",
   "poll_margin": 1,
   "polls_close": "9 PM ET",
-  "status": "Counting — no call yet (AP results via Fox News, 11:11 PM ET)",
-  "dem_pct": 51.5,
-  "rep_pct": 48.5,
-  "pct_in": 86.6,
+  "status": "Counting — too close to call; AP had not declared a winner (Johnson County Post, 12:56 AM ET); \"nearly all precincts\" counted per Kansas SOS, exact % not given",
+  "dem_pct": 50.3,
+  "rep_pct": 49.7,
+  "pct_in": null,
   "call": "",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "NV-GOV",
@@ -339,7 +339,7 @@
   "rep_pct": null,
   "pct_in": null,
   "call": "",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "MI-GOV",
@@ -352,12 +352,12 @@
   "final_poll": "Benson 52–39 (NYT/Siena)",
   "poll_margin": 13,
   "polls_close": "8 PM ET",
-  "status": "Counting — no listed-desk call retrieved (Upper Michigan's Source reports Benson projected, desk not named); AP results via Fox News, 11:11 PM ET",
-  "dem_pct": 53.2,
-  "rep_pct": 45.2,
-  "pct_in": 30.9,
-  "call": "",
-  "updated": "11:20 PM ET"
+  "status": "Projected by AP (per ClickOnDetroit/WDIV, 1:47 AM ET); figures 66.3% of precincts",
+  "dem_pct": 53.6,
+  "rep_pct": 44.4,
+  "pct_in": 66.3,
+  "call": "D",
+  "updated": "2:13 AM ET"
  },
  {
   "id": "OH-GOV",
@@ -370,12 +370,12 @@
   "final_poll": "Acton 49–43 (NYT/Siena)",
   "poll_margin": 6,
   "polls_close": "",
-  "status": "Projected by Fox News (10:51 PM ET)",
-  "dem_pct": 50.9,
+  "status": "Projected by Fox News (10:51 PM ET); figures AP via Fox News, 12:09 AM ET",
+  "dem_pct": 51.0,
   "rep_pct": 45.7,
-  "pct_in": 87.0,
+  "pct_in": 88.6,
   "call": "D",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "IA-GOV",
@@ -388,12 +388,12 @@
   "final_poll": "Sand 51–43 (NYT/Siena)",
   "poll_margin": 8,
   "polls_close": "",
-  "status": "Counting — no listed-desk call retrieved (The Hill reports Sand won, desk not named); AP results via Fox News, 11:12 PM ET",
-  "dem_pct": 57.8,
-  "rep_pct": 42.2,
-  "pct_in": 75.2,
-  "call": "",
-  "updated": "11:20 PM ET"
+  "status": "Projected by Fox News (11:18 PM ET) and AP (per WHO 13/Iowa Capital Dispatch); figures AP via Fox News, 12:09 AM ET",
+  "dem_pct": 56.2,
+  "rep_pct": 43.8,
+  "pct_in": 92.5,
+  "call": "D",
+  "updated": "2:13 AM ET"
  },
  {
   "id": "AK-GOV",
@@ -406,12 +406,12 @@
   "final_poll": "Kreiss-Tomkins 54–46 (NYT/Siena)",
   "poll_margin": 8,
   "polls_close": "",
-  "status": "Polls open (close 1 AM ET)",
+  "status": "Polls closed (1 AM ET) — no results retrieved yet",
   "dem_pct": null,
   "rep_pct": null,
   "pct_in": null,
   "call": "",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "CA-22",
@@ -424,12 +424,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Polls open",
+  "status": "Projected by Decision Desk HQ (per Bloomberg); vote figures not retrieved",
   "dem_pct": null,
   "rep_pct": null,
   "pct_in": null,
-  "call": "",
-  "updated": "11:20 PM ET"
+  "call": "D",
+  "updated": "2:13 AM ET"
  },
  {
   "id": "CO-05",
@@ -442,12 +442,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Polls closed — no returns retrieved yet",
-  "dem_pct": null,
-  "rep_pct": null,
+  "status": "Counting — no call (Rocky Mountain Voice, 11:50 PM figures); % counted not reported",
+  "dem_pct": 51.8,
+  "rep_pct": 45.2,
   "pct_in": null,
   "call": "",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "FL-14",
@@ -465,7 +465,7 @@
   "rep_pct": null,
   "pct_in": null,
   "call": "D",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "FL-22",
@@ -483,7 +483,7 @@
   "rep_pct": null,
   "pct_in": null,
   "call": "D",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "IA-02",
@@ -496,12 +496,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Polls closed — no returns retrieved yet",
+  "status": "Projected by AP (per Iowa Capital Dispatch); vote figures not retrieved",
   "dem_pct": null,
   "rep_pct": null,
   "pct_in": null,
-  "call": "",
-  "updated": "11:20 PM ET"
+  "call": "D",
+  "updated": "2:13 AM ET"
  },
  {
   "id": "KY-06",
@@ -519,7 +519,7 @@
   "rep_pct": 41.2,
   "pct_in": 92.0,
   "call": "D",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "MI-04",
@@ -532,12 +532,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Counting — no call yet; Huizenga leads (Fox News hot-races table; trailing share derived from Fox margin)",
-  "dem_pct": 34.9,
-  "rep_pct": 63.9,
-  "pct_in": 3.6,
+  "status": "Counting — no AP call (Michigan News Source, 12:15 AM ET); % counted not retrieved",
+  "dem_pct": 45.2,
+  "rep_pct": 53.2,
+  "pct_in": null,
   "call": "",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "MI-07",
@@ -550,12 +550,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Counting — no call yet; Barrett leads (Fox News hot-races table; trailing share derived from Fox margin)",
-  "dem_pct": 42.0,
-  "rep_pct": 56.7,
-  "pct_in": 37.0,
+  "status": "Counting — no AP call (Michigan News Source, 12:15 AM ET); % counted not retrieved",
+  "dem_pct": 46.7,
+  "rep_pct": 52.0,
+  "pct_in": null,
   "call": "",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "MI-10",
@@ -568,12 +568,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Counting — no call yet (ABC News results page)",
-  "dem_pct": 50.0,
-  "rep_pct": 48.0,
-  "pct_in": 10.0,
+  "status": "Counting — no AP call (Michigan News Source, 12:15 AM ET); % counted not retrieved",
+  "dem_pct": 50.1,
+  "rep_pct": 47.4,
+  "pct_in": null,
   "call": "",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "MT-01",
@@ -586,12 +586,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Counting — no call yet (AP results via Fox News, 11:11 PM ET)",
-  "dem_pct": 46.0,
-  "rep_pct": 50.6,
-  "pct_in": 17.8,
+  "status": "Counting — no call yet (AP results via Fox News, 12:10 AM ET)",
+  "dem_pct": 44.1,
+  "rep_pct": 52.8,
+  "pct_in": 31.1,
   "call": "",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "NY-17",
@@ -604,12 +604,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Counting — no call yet; Conley leads (Fox News hot-races table; trailing share derived from Fox margin)",
-  "dem_pct": 51.6,
-  "rep_pct": 48.3,
-  "pct_in": 22.8,
-  "call": "",
-  "updated": "11:20 PM ET"
+  "status": "Projected by AP (per The Highlands Current); Lawler conceded; figures 57% reported",
+  "dem_pct": 52.0,
+  "rep_pct": 47.0,
+  "pct_in": 57.0,
+  "call": "D",
+  "updated": "2:13 AM ET"
  },
  {
   "id": "NC-01",
@@ -622,12 +622,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Counting — no call yet; Davis leads (Fox News hot-races table; trailing share derived from Fox margin)",
-  "dem_pct": 50.1,
-  "rep_pct": 46.8,
-  "pct_in": 81.0,
-  "call": "",
-  "updated": "11:20 PM ET"
+  "status": "Projected by Decision Desk HQ (12:16 AM ET) and NBC News (per Townhall); Buckhout conceded; % counted not retrieved",
+  "dem_pct": 49.6,
+  "rep_pct": 47.1,
+  "pct_in": null,
+  "call": "D",
+  "updated": "2:13 AM ET"
  },
  {
   "id": "OH-07",
@@ -640,12 +640,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Counting — no call yet; Poindexter leads (Fox News hot-races table; trailing share derived from Fox margin)",
-  "dem_pct": 54.4,
-  "rep_pct": 45.7,
-  "pct_in": 57.3,
-  "call": "",
-  "updated": "11:20 PM ET"
+  "status": "Projected by AP (per WKBW/Scripps, 1:37 AM ET); figures AP via Yahoo News, 74% counted",
+  "dem_pct": 53.8,
+  "rep_pct": 46.2,
+  "pct_in": 74.0,
+  "call": "D",
+  "updated": "2:13 AM ET"
  },
  {
   "id": "PA-01",
@@ -658,12 +658,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Counting — no call yet (AP results via Fox News, 11:07 PM ET)",
-  "dem_pct": 53.6,
-  "rep_pct": 46.4,
-  "pct_in": 72.0,
-  "call": "",
-  "updated": "11:20 PM ET"
+  "status": "Projected by AP (12:37 AM ET, per Washington Examiner)",
+  "dem_pct": 52.7,
+  "rep_pct": 47.3,
+  "pct_in": 95.0,
+  "call": "D",
+  "updated": "2:13 AM ET"
  },
  {
   "id": "SC-01",
@@ -676,12 +676,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Counting — no call yet (ABC News results page)",
+  "status": "Counting — too close to call; Lacore claimed victory as recount looms (WCBD); vote figures from prior update",
   "dem_pct": 53.0,
   "rep_pct": 46.0,
   "pct_in": 57.0,
   "call": "",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "TX-15",
@@ -694,12 +694,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Polls closed — no votes reported yet (Fox News)",
+  "status": "Projected by Decision Desk HQ (per Bloomberg); vote figures not retrieved",
   "dem_pct": null,
   "rep_pct": null,
-  "pct_in": 0.0,
-  "call": "",
-  "updated": "11:20 PM ET"
+  "pct_in": null,
+  "call": "D",
+  "updated": "2:13 AM ET"
  },
  {
   "id": "TX-35",
@@ -717,7 +717,7 @@
   "rep_pct": 34.0,
   "pct_in": 44.0,
   "call": "",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "VA-01",
@@ -730,12 +730,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Counting — no call yet (AP results via Fox News)",
-  "dem_pct": 50.9,
-  "rep_pct": 48.9,
-  "pct_in": 97.3,
-  "call": "",
-  "updated": "11:20 PM ET"
+  "status": "Projected by AP (11 PM ET, per Henrico Citizen); vote figures AP via Fox News from prior update",
+  "dem_pct": 50.5,
+  "rep_pct": 49.3,
+  "pct_in": 99.0,
+  "call": "D",
+  "updated": "2:13 AM ET"
  },
  {
   "id": "AZ-01",
@@ -748,12 +748,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Counting — no call yet (AP results via Fox News)",
+  "status": "Counting — no call yet (AP results via Fox News, 12:10 AM ET)",
   "dem_pct": 54.9,
   "rep_pct": 43.2,
   "pct_in": 70.8,
   "call": "",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "AZ-06",
@@ -766,12 +766,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Polls closed — no votes reported yet (Fox News)",
-  "dem_pct": null,
-  "rep_pct": null,
-  "pct_in": 0.0,
-  "call": "",
-  "updated": "11:20 PM ET"
+  "status": "Projected by Decision Desk HQ (per Bloomberg); figures via KTAR as of 9:19 PM MST, % counted not reported",
+  "dem_pct": 57.1,
+  "rep_pct": 40.1,
+  "pct_in": null,
+  "call": "D",
+  "updated": "2:13 AM ET"
  },
  {
   "id": "CA-48",
@@ -784,12 +784,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Polls open",
+  "status": "Polls closed — NewsNation results headline says von Wilpert defeats Desmond, but no listed-desk call confirmed; no figures retrieved",
   "dem_pct": null,
   "rep_pct": null,
   "pct_in": null,
   "call": "",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "CO-08",
@@ -802,12 +802,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Projected by CBS News (CBS Colorado, 8:33 PM MT); no AP/NBC/Fox/CNN/DDHQ/NYT call retrieved, so call not set",
+  "status": "Projected by AP (11:49 PM ET, via Fox News); earlier CBS News projection; vote figures from prior update",
   "dem_pct": 56.0,
   "rep_pct": 40.3,
   "pct_in": 80.2,
-  "call": "",
-  "updated": "11:20 PM ET"
+  "call": "D",
+  "updated": "2:13 AM ET"
  },
  {
   "id": "FL-25",
@@ -825,7 +825,7 @@
   "rep_pct": 46.6,
   "pct_in": 98.6,
   "call": "D",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "IA-01",
@@ -838,12 +838,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Counting — no call yet (AP results via Fox News, 11:12 PM ET)",
-  "dem_pct": 54.4,
-  "rep_pct": 41.9,
-  "pct_in": 73.0,
-  "call": "",
-  "updated": "11:20 PM ET"
+  "status": "Projected by AP (12:08 AM ET, via Fox News)",
+  "dem_pct": 53.5,
+  "rep_pct": 42.8,
+  "pct_in": 89.4,
+  "call": "D",
+  "updated": "2:13 AM ET"
  },
  {
   "id": "IA-03",
@@ -856,12 +856,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Polls closed — no returns retrieved yet",
+  "status": "Projected by AP (12:03 AM ET, via Fox News); vote figures not retrieved",
   "dem_pct": null,
   "rep_pct": null,
   "pct_in": null,
-  "call": "",
-  "updated": "11:20 PM ET"
+  "call": "D",
+  "updated": "2:13 AM ET"
  },
  {
   "id": "NJ-07",
@@ -879,7 +879,7 @@
   "rep_pct": 38.4,
   "pct_in": 69.7,
   "call": "D",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "NM-02",
@@ -892,12 +892,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Polls closed — no returns retrieved yet",
+  "status": "Counting — Albuquerque Journal/Source NM report Vasquez won (desk not named); no listed-desk call or figures retrieved",
   "dem_pct": null,
   "rep_pct": null,
   "pct_in": null,
   "call": "",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "NC-11",
@@ -915,7 +915,7 @@
   "rep_pct": null,
   "pct_in": null,
   "call": "D",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "OH-09",
@@ -933,7 +933,7 @@
   "rep_pct": 59.6,
   "pct_in": 46.2,
   "call": "",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "PA-07",
@@ -951,7 +951,7 @@
   "rep_pct": 41.3,
   "pct_in": 65.0,
   "call": "D",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "PA-08",
@@ -969,7 +969,7 @@
   "rep_pct": 34.1,
   "pct_in": 43.3,
   "call": "D",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "PA-10",
@@ -987,7 +987,7 @@
   "rep_pct": 35.1,
   "pct_in": 20.2,
   "call": "D",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "TX-34",
@@ -1000,12 +1000,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Counting — no call yet; Gonzalez leads (Fox News hot-races table; trailing share derived from Fox margin)",
+  "status": "Projected by AP (10:51 PM ET, AP race call via MyNorthwest); vote figures from prior update",
   "dem_pct": 56.6,
   "rep_pct": 38.9,
   "pct_in": 77.2,
-  "call": "",
-  "updated": "11:20 PM ET"
+  "call": "D",
+  "updated": "2:13 AM ET"
  },
  {
   "id": "VA-02",
@@ -1018,12 +1018,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Counting — WAVY/The Hill report Luria projected (desk not named); no listed-desk call retrieved — vote figures from prior update",
+  "status": "Projected by AP (11:47 PM ET, via Fox News); vote figures from prior update",
   "dem_pct": 52.1,
   "rep_pct": 45.6,
   "pct_in": 69.9,
-  "call": "",
-  "updated": "11:20 PM ET"
+  "call": "D",
+  "updated": "2:13 AM ET"
  },
  {
   "id": "WA-03",
@@ -1036,12 +1036,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Polls open",
+  "status": "Counting — KGW reports Gluesenkamp Perez projected to win (desk not named); no listed-desk call or figures retrieved",
   "dem_pct": null,
   "rep_pct": null,
   "pct_in": null,
   "call": "",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "WI-03",
@@ -1054,12 +1054,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Counting — no call yet; Cooke leads (Fox News hot-races table; trailing share derived from Fox margin)",
+  "status": "Counting — Van Orden conceded (WPR, Wisconsin Watch); no AP/listed-desk call retrieved — vote figures from prior update",
   "dem_pct": 52.4,
   "rep_pct": 45.9,
   "pct_in": 30.0,
   "call": "",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "AK-AL",
@@ -1072,12 +1072,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Polls open",
+  "status": "Polls closed (1 AM ET) — no results retrieved yet",
   "dem_pct": null,
   "rep_pct": null,
   "pct_in": null,
   "call": "",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "AL-02",
@@ -1090,12 +1090,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Projected by AP (11:00 PM ET, via Fox News)",
+  "status": "Projected by AP (11:00 PM ET, via Fox News race-call log)",
   "dem_pct": 33.0,
   "rep_pct": 67.0,
   "pct_in": 2.0,
   "call": "D",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "AZ-02",
@@ -1108,12 +1108,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Polls closed — no returns retrieved yet",
-  "dem_pct": null,
-  "rep_pct": null,
+  "status": "Counting — not yet called (KTAR, figures as of 9:19 PM MST); % counted not reported",
+  "dem_pct": 49.2,
+  "rep_pct": 49.2,
   "pct_in": null,
   "call": "",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "CO-04",
@@ -1126,12 +1126,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Polls closed — no returns retrieved yet",
-  "dem_pct": null,
-  "rep_pct": null,
+  "status": "Counting — no call (Rocky Mountain Voice, 11:50 PM figures); % counted not reported",
+  "dem_pct": 49.7,
+  "rep_pct": 47.4,
   "pct_in": null,
   "call": "",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "FL-13",
@@ -1149,7 +1149,7 @@
   "rep_pct": 49.6,
   "pct_in": 99.0,
   "call": "",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "FL-27",
@@ -1162,12 +1162,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Counting — no call yet; Salazar leads (Fox News hot-races table; trailing share derived from Fox margin)",
+  "status": "Counting — no desk call retrieved; Salazar leads by under 1 pt (~1,300 votes), recount required (WLRN); vote figures from prior update",
   "dem_pct": 49.8,
   "rep_pct": 50.2,
   "pct_in": 99.0,
   "call": "",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "ME-02",
@@ -1180,12 +1180,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Counting — no call yet (ABC News results page)",
+  "status": "Counting — too close to call, likely headed to ranked-choice tabulation (Maine Morning Star); vote figures from prior update",
   "dem_pct": 48.0,
   "rep_pct": 52.0,
   "pct_in": 6.0,
   "call": "",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "MN-01",
@@ -1198,12 +1198,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Counting — no call yet (AP results via Fox News, 11:12 PM ET)",
-  "dem_pct": 47.9,
-  "rep_pct": 52.0,
-  "pct_in": 34.6,
+  "status": "Counting — no call yet (AP results via Fox News, 12:09 AM ET)",
+  "dem_pct": 48.6,
+  "rep_pct": 51.3,
+  "pct_in": 58.9,
   "call": "",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "NV-02",
@@ -1221,7 +1221,7 @@
   "rep_pct": null,
   "pct_in": null,
   "call": "",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "OH-10",
@@ -1234,12 +1234,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Counting — no call yet (ABC News results page)",
+  "status": "Counting — Knickerbocker declared victory (Dayton Daily News); no listed-desk call retrieved — vote figures from prior update",
   "dem_pct": 58.0,
   "rep_pct": 40.0,
   "pct_in": 44.0,
   "call": "",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "OH-15",
@@ -1257,7 +1257,7 @@
   "rep_pct": 42.0,
   "pct_in": 37.0,
   "call": "D",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  },
  {
   "id": "TX-23",
@@ -1270,12 +1270,12 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Counting — no call yet (ABC News results page)",
+  "status": "Projected by AP (per KPRC Click2Houston, 12:16 AM ET); vote figures from prior update",
   "dem_pct": 57.0,
   "rep_pct": 40.0,
   "pct_in": 55.0,
-  "call": "",
-  "updated": "11:20 PM ET"
+  "call": "D",
+  "updated": "2:13 AM ET"
  },
  {
   "id": "WI-01",
@@ -1288,11 +1288,11 @@
   "final_poll": "—",
   "poll_margin": null,
   "polls_close": "",
-  "status": "Counting — no call yet (AP results via Fox News, 11:12 PM ET)",
-  "dem_pct": 50.9,
-  "rep_pct": 49.1,
-  "pct_in": 81.9,
+  "status": "Counting — Berman declared victory; no desk call retrieved; Berman led by 4.6 pts with 93% counted (AP via Wisconsin Watch); vote shares from prior update",
+  "dem_pct": 52.2,
+  "rep_pct": 47.8,
+  "pct_in": 93.0,
   "call": "",
-  "updated": "11:20 PM ET"
+  "updated": "2:13 AM ET"
  }
 ]
