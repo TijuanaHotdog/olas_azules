@@ -15,7 +15,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "TX-GOV",
@@ -33,7 +33,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "MI-SEN",
@@ -51,7 +51,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "NY-21",
@@ -69,7 +69,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "CT-GOV",
@@ -87,7 +87,7 @@
 "rep_pct": null,
 "pct_in": 0,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "rating": "—",
@@ -99,7 +99,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET",
+"updated": "8:55 PM ET",
 "id": "NY-AD102",
 "group": "Local races",
 "race": "NY Assembly District 102 (open)",
@@ -117,7 +117,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET",
+"updated": "8:55 PM ET",
 "id": "CONESVILLE-SUP",
 "group": "Local races",
 "race": "Conesville Town Supervisor",
@@ -141,7 +141,7 @@
 "rep_pct": null,
 "pct_in": 0,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "OH-SEN",
@@ -159,7 +159,7 @@
 "rep_pct": 36.4,
 "pct_in": 28.1,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "IA-SEN",
@@ -177,7 +177,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "AK-SEN",
@@ -195,7 +195,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "KS-SEN",
@@ -213,7 +213,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "NC-SEN",
@@ -226,12 +226,12 @@
 "final_poll": "Cooper 54–45 (ECU)",
 "poll_margin": 9,
 "polls_close": "",
-"status": "Polls closed — no call yet",
+"status": "Projected: Cooper (NBC News)",
 "dem_pct": null,
 "rep_pct": null,
 "pct_in": null,
-"call": "",
-"updated": "8:07 PM ET"
+"call": "D",
+"updated": "8:55 PM ET"
 },
 {
 "id": "GA-SEN",
@@ -244,12 +244,12 @@
 "final_poll": "Ossoff 53–46 (InsiderAdvantage)",
 "poll_margin": 7,
 "polls_close": "Closed",
-"status": "Projected by AP, NBC News and Fox News",
+"status": "Projected: Ossoff (ABC News, NBC News)",
 "dem_pct": 64.5,
 "rep_pct": 35.5,
 "pct_in": 46.8,
 "call": "D",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "NH-SEN",
@@ -267,7 +267,7 @@
 "rep_pct": 37.6,
 "pct_in": 14.5,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "MN-SEN",
@@ -285,7 +285,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "GA-GOV",
@@ -303,7 +303,7 @@
 "rep_pct": 43.1,
 "pct_in": 41.5,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "KS-GOV",
@@ -321,7 +321,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "NV-GOV",
@@ -339,7 +339,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "MI-GOV",
@@ -357,7 +357,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "OH-GOV",
@@ -375,7 +375,7 @@
 "rep_pct": 35.6,
 "pct_in": 28.0,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "IA-GOV",
@@ -393,7 +393,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "AK-GOV",
@@ -411,7 +411,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "CA-22",
@@ -429,7 +429,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "CO-05",
@@ -447,7 +447,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "FL-14",
@@ -465,7 +465,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "FL-22",
@@ -483,7 +483,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "IA-02",
@@ -501,7 +501,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "KY-06",
@@ -519,7 +519,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "MI-04",
@@ -537,7 +537,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "MI-07",
@@ -555,7 +555,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "MI-10",
@@ -573,7 +573,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "MT-01",
@@ -591,7 +591,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "NY-17",
@@ -609,7 +609,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "NC-01",
@@ -627,7 +627,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "OH-07",
@@ -645,7 +645,7 @@
 "rep_pct": 30.6,
 "pct_in": 20.3,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "PA-01",
@@ -663,7 +663,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "SC-01",
@@ -681,7 +681,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "TX-15",
@@ -699,7 +699,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "TX-35",
@@ -717,7 +717,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "VA-01",
@@ -735,7 +735,7 @@
 "rep_pct": 49.9,
 "pct_in": 35.4,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "AZ-01",
@@ -753,7 +753,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "AZ-06",
@@ -771,7 +771,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "CA-48",
@@ -789,7 +789,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "CO-08",
@@ -807,7 +807,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "FL-25",
@@ -825,7 +825,7 @@
 "rep_pct": 46.4,
 "pct_in": 94.0,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "IA-01",
@@ -843,7 +843,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "IA-03",
@@ -861,7 +861,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "NJ-07",
@@ -879,7 +879,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "NM-02",
@@ -897,7 +897,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "NC-11",
@@ -915,7 +915,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "OH-09",
@@ -933,7 +933,7 @@
 "rep_pct": 52.1,
 "pct_in": 10.4,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "PA-07",
@@ -951,7 +951,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "PA-08",
@@ -969,7 +969,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "PA-10",
@@ -987,7 +987,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "TX-34",
@@ -1005,7 +1005,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "VA-02",
@@ -1023,7 +1023,7 @@
 "rep_pct": 51.9,
 "pct_in": 6.9,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "WA-03",
@@ -1041,7 +1041,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "WI-03",
@@ -1059,7 +1059,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "AK-AL",
@@ -1077,7 +1077,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "AL-02",
@@ -1095,7 +1095,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "AZ-02",
@@ -1113,7 +1113,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "CO-04",
@@ -1131,7 +1131,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "FL-13",
@@ -1149,7 +1149,7 @@
 "rep_pct": 49.4,
 "pct_in": 98.3,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "FL-27",
@@ -1167,7 +1167,7 @@
 "rep_pct": 50.0,
 "pct_in": 90.8,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "ME-02",
@@ -1185,7 +1185,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "MN-01",
@@ -1203,7 +1203,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "NV-02",
@@ -1221,7 +1221,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "OH-10",
@@ -1239,7 +1239,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "OH-15",
@@ -1257,7 +1257,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "TX-23",
@@ -1275,7 +1275,7 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 },
 {
 "id": "WI-01",
@@ -1293,6 +1293,6 @@
 "rep_pct": null,
 "pct_in": null,
 "call": "",
-"updated": "8:07 PM ET"
+"updated": "8:55 PM ET"
 }
 ]
