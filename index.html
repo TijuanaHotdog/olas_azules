@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Election Night 2026</title>
+<style>
+:root { --bg:#f7f7f5; --panel:#fff; --fg:#1f1f1d; --muted:#6b6b66; --line:#e3e2dd; --grid:#ecebe6; --warn:#b45309; --d:#2b6cb0; --r:#c53030; }
+@media (prefers-color-scheme: dark) { :root { --bg:#1a1a19; --panel:#232322; --fg:#ecebe6; --muted:#a3a29b; --line:#363633; --grid:#2e2e2c; --warn:#f59e0b; } }
+* { box-sizing: border-box; }
+body { margin:0; background:var(--bg); color:var(--fg); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+.wrap { max-width: 1200px; margin: 0 auto; padding: 24px 16px 48px; }
+h1 { font-family: Georgia, "Times New Roman", serif; font-weight: 400; font-size: 32px; margin: 0 0 6px; }
+.lede { color: var(--muted); margin: 0 0 20px; }
+.tiles { display:grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 9rem), 1fr)); gap:12px; margin-bottom:24px; }
+.tile, .card { background:var(--panel); border:1px solid var(--line); border-radius:10px; }
+.tile { padding:14px; }
+.lbl, .meta, .status { font-size: 13px; color: var(--muted); }
+.num { font-family: Georgia, serif; font-size: 30px; font-variant-numeric: tabular-nums; }
+.snd-bar { display:flex; flex-wrap:wrap; gap:8px; align-items:center; margin-bottom:12px; }
+.snd-btn { font: inherit; font-size: 13px; padding: 6px 10px; border-radius: 8px; border:1px solid var(--line); background: var(--panel); color: var(--fg); cursor:pointer; }
+.snd-btn[aria-pressed="true"] { background: var(--d); color:#fff; border-color: var(--d); }
+.toast { position: sticky; top: 0; z-index: 5; background: var(--d); color:#fff; border-radius: 10px; padding: 10px 14px; margin-bottom: 12px; font-weight: 600; }
+h2 { font-size: 18px; font-weight: 600; margin: 28px 0 10px; }
+.grid { display:grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 20rem), 1fr)); gap:12px; }
+.card { padding:16px; display:flex; flex-direction:column; gap:8px; }
+.top { display:flex; justify-content:space-between; gap:8px; align-items:baseline; }
+.rname { font-weight:600; font-size:17px; }
+.flip { font-size:12px; font-weight:700; color: var(--warn); }
+.row { display:grid; grid-template-columns: 1.4rem 1fr auto; align-items:center; gap:6px; font-variant-numeric: tabular-nums; }
+.p { font-size:12px; font-weight:700; color:#fff; text-align:center; border-radius:4px; padding:1px 0; }
+.pd { background: var(--d); } .pr { background: var(--r); }
+.pct { font-family: Georgia, serif; font-size: 18px; }
+.bar { height:6px; border-radius:3px; background: var(--grid); display:flex; overflow:hidden; }
+.bar span { display:block; height:100%; }
+.call { font-weight:700; color: var(--fg); }
+.note { font-size: 13px; color: var(--muted); margin-top: 32px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Election night 2026</h1>
+  <p class="lede" id="lede">Loading…</p>
+  <div class="tiles">
+    <div class="tile"><div class="lbl">Races tracked</div><div class="num" id="t-tracked">—</div></div>
+    <div class="tile"><div class="lbl">Races called</div><div class="num" id="t-called">—</div></div>
+    <div class="tile"><div class="lbl">Flips to D (called)</div><div class="num" id="t-d">—</div></div>
+    <div class="tile"><div class="lbl">Flips to R (called)</div><div class="num" id="t-r">—</div></div>
+  </div>
+  <div class="snd-bar"><button type="button" id="snd-btn" class="snd-btn" aria-pressed="false">Turn on sound alerts</button><span class="meta">Chime when a Democrat is projected the winner, or leads by 10+ points with 50%+ counted. Page checks for new numbers every 2 minutes.</span></div>
+  <div id="toast" class="toast" role="status" hidden></div>
+  <div id="groups"></div>
+  <p class="note">Ratings: Cook Political Report final ratings. Polls: final public poll or average noted per race. Returns are updated through the night from published counts; a race shows a winner only after a major news desk projects it (local races: once a winner, concession, or full count is reported).</p>
+</div>
+<script>
+(() => {
+  const $ = id => document.getElementById(id);
+  const fmtPct = v => (v === null || v === undefined || v === '') ? '—' : Number(v).toFixed(1) + '%';
+  const el = (tag, cls, text) => { const e = document.createElement(tag); if (cls) e.className = cls; if (text !== undefined) e.textContent = text; return e; };
+  let ctx = null, armed = false, seen = null;
+  function chime() {
+    if (!ctx) return;
+    const t0 = ctx.currentTime + 0.05;
+    [523.25, 659.25, 783.99, 1046.5].forEach((f, i) => {
+      const o = ctx.createOscillator(), g = ctx.createGain();
+      o.type = 'triangle'; o.frequency.value = f;
+      const t = t0 + i * 0.12;
+      g.gain.setValueAtTime(0.0001, t); g.gain.linearRampToValueAtTime(0.25, t + 0.02); g.gain.exponentialRampToValueAtTime(0.001, t + 0.5);
+      o.connect(g); g.connect(ctx.destination); o.start(t); o.stop(t + 0.55);
+    });
+  }
+  $('snd-btn').addEventListener('click', () => {
+    if (!ctx) { try { ctx = new (window.AudioContext || window.webkitAudioContext)(); } catch (e) { ctx = null; } }
+    armed = !armed;
+    if (armed && ctx) { ctx.resume(); chime(); }
+    $('snd-btn').textContent = armed ? 'Sound alerts on' : 'Turn on sound alerts';
+    $('snd-btn').setAttribute('aria-pressed', String(armed));
+  });
+  const qualifies = r => {
+    if (r.call === 'D') return 'call';
+    if (r.pct_in != null && Number(r.pct_in) >= 50 && r.dem_pct != null && r.rep_pct != null && Number(r.dem_pct) - Number(r.rep_pct) >= 10) return 'lead';
+    return null;
+  };
+  function alerts(races) {
+    const now = new Map();
+    races.forEach(r => { const q = qualifies(r); if (q) now.set(r.id + ':' + q, r); });
+    if (seen === null) { seen = new Set(now.keys()); return; }
+    const fresh = [...now.entries()].filter(([k]) => !seen.has(k));
+    fresh.forEach(([k]) => seen.add(k));
+    if (!fresh.length) return;
+    $('toast').textContent = fresh.map(([k, r]) => k.endsWith(':call')
+      ? r.race + ': ' + r.dem + ' projected winner'
+      : r.race + ': ' + r.dem + ' leads by ' + (Number(r.dem_pct) - Number(r.rep_pct)).toFixed(1) + ' pts, ' + r.pct_in + '% in').join(' · ');
+    $('toast').hidden = false;
+    clearTimeout($('toast')._t); $('toast')._t = setTimeout(() => { $('toast').hidden = true; }, 20000);
+    if (armed) chime();
+  }
+  function render(races) {
+    const called = races.filter(r => r.call);
+    const dFlips = called.filter(r => r.call === 'D' && r.held_by === 'R').length;
+    const rFlips = called.filter(r => r.call === 'R' && r.held_by === 'D').length;
+    const upd = races[0] ? races[0].updated : '';
+    $('t-tracked').textContent = races.length;
+    $('t-called').textContent = called.length;
+    $('t-d').textContent = dFlips;
+    $('t-r').textContent = rFlips;
+    $('lede').textContent = called.length === 0
+      ? `No projections yet in the ${races.length} races tracked. Last update ${upd}.`
+      : `${called.length} of ${races.length} races projected; ${dFlips} flip${dFlips === 1 ? '' : 's'} to Democrats, ${rFlips} to Republicans. Last update ${upd}.`;
+    const root = $('groups'); root.textContent = '';
+    [...new Set(races.map(r => r.group))].forEach(g => {
+      root.appendChild(el('h2', '', g));
+      const grid = el('div', 'grid');
+      races.filter(r => r.group === g).forEach(r => {
+        const c = el('div', 'card');
+        const top = el('div', 'top');
+        top.appendChild(el('div', 'rname', r.race));
+        const isFlip = r.call && (r.held_by === 'D' || r.held_by === 'R') && r.call !== r.held_by;
+        top.appendChild(el('div', 'flip', isFlip ? (r.held_by === 'R' ? 'FLIP R→D' : 'FLIP D→R') : ''));
+        c.appendChild(top);
+        let meta = 'Held by ' + r.held_by + ' · Cook: ' + r.rating;
+        if (r.polls_close) meta += ' · Polls close: ' + r.polls_close;
+        c.appendChild(el('div', 'meta', meta));
+        [['D', 'pd', r.dem, r.dem_pct], ['R', 'pr', r.rep, r.rep_pct]].forEach(([p, cls, name, pct]) => {
+          const row = el('div', 'row');
+          row.append(el('span', 'p ' + cls, p), el('span', '', name), el('span', 'pct', fmtPct(pct)));
+          c.appendChild(row);
+        });
+        const bar = el('div', 'bar');
+        if (r.dem_pct != null && r.rep_pct != null) {
+          const a = el('span'); a.style.width = r.dem_pct + '%'; a.style.background = 'var(--d)';
+          const gap = el('span'); gap.style.width = Math.max(0, 100 - r.dem_pct - r.rep_pct) + '%';
+          const b = el('span'); b.style.width = r.rep_pct + '%'; b.style.background = 'var(--r)';
+          bar.append(a, gap, b);
+        }
+        c.appendChild(bar);
+        const st = el('div', 'status', r.status);
+        if (r.pct_in != null) st.append(' · ' + r.pct_in + '% in');
+        if (r.call) { st.append(' · Projected: '); st.appendChild(el('span', 'call', r.call === 'D' ? r.dem : r.rep)); }
+        c.appendChild(st);
+        c.appendChild(el('div', 'meta', 'Final poll: ' + r.final_poll));
+        grid.appendChild(c);
+      });
+      root.appendChild(grid);
+    });
+  }
+  async function load() {
+    try {
+      const res = await fetch('races.json?t=' + Date.now(), { cache: 'no-store' });
+      if (!res.ok) throw new Error(res.status);
+      const races = await res.json();
+      render(races); alerts(races);
+    } catch (e) {
+      if ($('lede').textContent === 'Loading…') $('lede').textContent = 'Couldn’t load results. Retrying shortly.';
+    }
+  }
+  load();
+  setInterval(load, 120000);
+})();
+</script>
+</body>
+</html>
