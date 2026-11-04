@@ -1,12 +1,12 @@
 {
-"as_of": "2:13 AM ET",
+"as_of": "6:22 AM ET",
 "note": "Compared with Cook's final ratings and the last public polls. Uncalled races can still shift as more votes are counted.",
 "items": [
- {"title": "No tracked race called for a Republican", "text": "Of the 72 races on this page, 43 have been projected and all 43 went to Democrats, including 30 seats that flip from Republican control. The rest are still uncalled."},
+ {"title": "No tracked race called for a Republican", "text": "Of the 72 races on this page, 47 have been projected and all 47 went to Democrats, including 32 seats that flip from Republican control. 25 are still uncalled."},
  {"title": "Texas flips both top races", "text": "AP projected Talarico (D) over Paxton (R) for Senate, 59.2%–39.2%, well above final polls (Talarico +3 to +7). AP also projected Hinojosa (D) over Gov. Abbott (R), after a final poll showing a 1-point race."},
- {"title": "Senate toss-ups break one way", "text": "Democrats were projected to win the Maine, Ohio, Kansas and Iowa Senate races, all rated toss-ups by Cook. Sen. Collins conceded in Maine."},
- {"title": "Michigan was the closest Senate call", "text": "Fox News and Decision Desk HQ projected El-Sayed (D) over Rogers (R), who led 49.5%–48.5% with about 44% counted, far tighter than the 11-point final NYT/Siena poll. AP had not called it."},
- {"title": "NY-21 is the reversal of the night", "text": "Gendebien (D) led early, but with about 99% counted Constantino (R) leads 49%–47%, per WAMC. No desk call yet."},
- {"title": "Close House races still out", "text": "FL-27 (Salazar up under 1 point with 99% counted), ME-02 (likely headed to ranked-choice tabulation), MI-04, MI-07 and CO-04 remain uncalled. Kansas governor is 50.3%–49.7%."}
+ {"title": "Senate toss-ups break one way", "text": "Democrats were projected to win Maine, Ohio, Kansas, Iowa and Michigan. AP called Michigan for El-Sayed (D) at 2:28 AM, 52.0%–46.0% with about 72% counted, a narrower margin than the 11-point final NYT/Siena poll."},
+ {"title": "NY-21 is the reversal of the night", "text": "Gendebien (D) led early, but with about 99% counted Constantino (R) leads 49%–47%, per WAMC, and has declared victory. No desk call yet."},
+ {"title": "Nevada governor flips overnight", "text": "AP projected Ford (D) over Gov. Lombardo (R) at 4:46 AM, 51.5%–44.3% with about 85% counted, in a race Cook rated a toss-up."},
+ {"title": "Still out", "text": "Alaska's Senate race is close and could go to ranked-choice tabulation on Nov. 18. Kansas governor is 50.3%–49.7%, FL-27 is headed to a recount, and ME-02, MI-04, MI-07 and NY-21 remain uncalled."}
 ]
 }
